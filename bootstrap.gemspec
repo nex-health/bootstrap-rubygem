@@ -3,12 +3,12 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'bootstrap/version'
 
 Gem::Specification.new do |s|
-  s.name     = 'bootstrap'
+  s.name     = 'nex-bootstrap'
   s.version  = Bootstrap::VERSION
   s.authors  = ['Twitter, Inc.']
   s.email    = 'glex.spb@gmail.com'
   s.summary  = 'The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. http://getbootstrap.com'
-  s.homepage = 'https://github.com/twbs/bootstrap-rubygem'
+  s.homepage = 'https://github.com/nex-health/bootstrap-rubygem/tree/4.6-stable'
   s.license  = 'MIT'
 
   s.required_ruby_version = '>= 2.3.3'

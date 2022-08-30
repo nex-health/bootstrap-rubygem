@@ -1,6 +1,4 @@
-# Bootstrap Ruby Gem [![Build Status](https://travis-ci.org/twbs/bootstrap-rubygem.svg?branch=master)](https://travis-ci.org/twbs/bootstrap-rubygem) [![Gem](https://img.shields.io/gem/v/bootstrap.svg)](https://rubygems.org/gems/bootstrap)
-
-[Bootstrap 4][bootstrap-home] ruby gem for Ruby on Rails (Sprockets) and Hanami (formerly Lotus).
+This is a fork of the [Bootstrap 4][bootstrap-home] ruby gem for Ruby on Rails (Sprockets) and Hanami (formerly Lotus), which removes the sassc-rails dependency.
 
 For Sass versions of Bootstrap 3 and 2 see [bootstrap-sass](https://github.com/twbs/bootstrap-sass) instead.
 
